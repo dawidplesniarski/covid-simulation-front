@@ -1,4 +1,4 @@
-# This is my Covid simulation app
+# This is Covid simulation app
 ## Created with ReactJS
 ### Application working with Java Spring Boot REST Server.
 
@@ -6,7 +6,6 @@
 ![alt text](https://user-images.githubusercontent.com/49324419/104512678-dd66a080-55ee-11eb-9d2f-670ad71fe5e6.png) <br />
 
 #### Epidemic days list
-![alt text](https://user-images.githubusercontent.com/49324419/104512685-e3f51800-55ee-11eb-9755-32bae5cf8772.png)
-
-#### Simulation presets screen
 ![alt text](https://user-images.githubusercontent.com/49324419/104512742-f707e800-55ee-11eb-9615-4881d4ee7f3a.png)
+#### Simulation presets screen
+![alt text](https://user-images.githubusercontent.com/49324419/104512685-e3f51800-55ee-11eb-9755-32bae5cf8772.png)
